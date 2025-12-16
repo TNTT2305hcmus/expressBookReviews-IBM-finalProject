@@ -1,0 +1,2 @@
+(curl.exe -s https://api.github.com/repos/TNTT2305hcmus/expressBookReviews-IBM-finalProject | ConvertFrom-Json).parent.full_name
+"ibm-developer-skills-network/expressBookReviews"

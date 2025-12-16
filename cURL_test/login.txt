@@ -1,0 +1,2 @@
+curl.exe -X POST http://localhost:5000/customer/login -H "Content-Type: application/json" -d '{\"username\":\"Thanh\",\"password\":\"123456\"}'-c cookie-jar.txt
+"User successfully logged in"
